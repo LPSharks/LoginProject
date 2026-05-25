@@ -186,7 +186,7 @@ public class ProjectChat {
                     case "2":
                         // Show recently sent messages
                         System.out.println("\n----- RECENT MESSAGES -----");
-                        System.out.println(msg.printMessages());
+                        System.out.println("Caming soon...");
                         break;
                         
                     case "3":
