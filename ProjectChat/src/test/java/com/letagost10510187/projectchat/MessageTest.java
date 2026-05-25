@@ -4,8 +4,8 @@
  */
 package com.letagost10510187.projectchat;
 
-import org.junit.Test;
-import static org.junit.Assert.*;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Unit tests for the Message class.
@@ -107,4 +107,3 @@ public class MessageTest {
         assertTrue(total >= 0);
     }
 }
-
