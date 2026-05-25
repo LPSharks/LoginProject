@@ -99,7 +99,7 @@ public class ProjectChat {
             while (running && currentMsg < numMessages) {
                 System.out.println("\n---------- MENU ----------");
                 System.out.println("1. Send Messages");
-                System.out.println("2. Show recently sent messages");
+                System.out.println("2. Show recently sent messages (Comming Soon)");
                 System.out.println("3. Quit");
                 System.out.print("\nEnter option (1-3): ");
                 
